@@ -12,7 +12,7 @@ nodes = [ </br>
   "127.0.0.1:6379", </br>
 ] </br>
 client_key = "/auth/password" </br>
-use app_id to select db </br>
+;use app_id to select db </br>
 app_id = "1" </br>
 noop = false </br>
 sync-only = false </br>
